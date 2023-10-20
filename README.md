@@ -13,3 +13,7 @@ this bootloader is for atmega16u2.
 2. MODIFY Makefile
    - WRITE your USB PID and VID.
    - MODIFY LUFA_PATH (line 128)
+
+#LICENSE
+This is fork of Arduino-core (LGPL), so I published this fork under LGPLv2.1 license. 
+However, the bootloader/caterina directory of Arduino-core Repo contains no LICENSE file, I don't know the suitable license....
