@@ -3,6 +3,8 @@ I modified caterina bootloader a little.
 
 Forked from: https://github.com/arduino/ArduinoCore-avr/tree/master/bootloaders/caterina
 
+commit: https://github.com/arduino/ArduinoCore-avr/commit/1668039101ddee651f9b8e9b763134e0a5aebf59
+
 this bootloader is for atmega16u2.
 
 ## to build this bootloader
